@@ -1,0 +1,26 @@
+menu_item,total_quantity,total_revenue,total_orders,avg_price,category,is_veg
+Butter Chicken,165963,63725392.96,83101,383.97,Main Course,False
+Chicken Biryani,124107,41647366.52,67133,335.58,Main Course,False
+Tandoori Chicken,89986,37759259.49,52187,419.61,Starter,False
+Paneer Tikka,106770,33292288.78,51369,311.81,Starter,True
+Seekh Kebab,90999,32698204.73,52719,359.32,Starter,False
+Dal Makhani,126289,30318143.83,69139,240.07,Main Course,True
+Fish Curry,72260,29501424.87,36652,408.27,Main Course,False
+Hyderabadi Biryani,71824,27594702.51,36542,384.2,Main Course,False
+Chicken 65,49215,16477473.6,36789,334.81,Starter,False
+Veg Thali,51285,13542173.9,38793,264.06,Thali,True
+Mango Lassi,106046,11447902.76,51234,107.95,Beverage,True
+Chole Bhature,59384,11407204.56,46585,192.09,Main Course,True
+Aloo Gobi,50224,10844653.94,38221,215.93,Main Course,True
+Gulab Jamun,105349,10116131.81,51040,96.02,Dessert,True
+Masala Dosa,59589,10006955.7,46724,167.93,Main Course,True
+Garlic Naan,123843,8911417.77,67317,71.96,Bread,True
+Palak Paneer,31227,8606472.74,21023,275.61,Main Course,True
+Kheer,72248,7805269.17,36788,108.03,Dessert,True
+Raita,105919,7619021.15,51014,71.93,Side,True
+Cold Coffee,48135,6912733.2,36157,143.61,Beverage,True
+Jalebi,81027,6810126.26,44881,84.05,Dessert,True
+Samosa (2 pcs),59721,4300733.06,46727,72.01,Starter,True
+Pani Puri,39274,3771225.08,28940,96.02,Starter,True
+Lassi (Sweet),39412,3309380.06,28952,83.97,Beverage,True
+Masala Chai,59303,2846606.71,46518,48.0,Beverage,True
